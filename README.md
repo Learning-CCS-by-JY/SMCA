@@ -6,3 +6,4 @@ Go to [Karl Broman's GitHub guide](https://kbroman.org/github_tutorial/) to find
 
 ## Files and codes
 1. **Dataset**: You can find the necessary datasets for your analysis here. 
+2. **Teams**: You can upload your files for your team here.
