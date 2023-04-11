@@ -12,3 +12,6 @@ In this folder, you will find the folders where you can upload your codes, plots
 8. xmasforthewin
 9. Daevlinn
 10. dutchlinguists
+
+## Uploading tips
+You can create a folder for your team with your team number stated in the folder name. You can then upload your files on these folders.
